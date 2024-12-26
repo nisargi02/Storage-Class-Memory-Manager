@@ -1,5 +1,3 @@
-Name of Group Members:
+Storage Class Memory Manager:
 
-Bhavini Piyush Mamtora	36205716	
-Nisargi Vipulbhai Shah	69087544	
-Hrushikesh Pandurang Kulkarni	18288088
+Create a robust memory management system featuring an API reminiscent of the C malloc() function. This system will utilize a le as its underlying storage to ensure persistent data availability across different processes. 
